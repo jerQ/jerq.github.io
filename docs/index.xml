@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B2B</title>
+    <link>http://jerq.github.io/</link>
+    <description>Recent content on B2B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 20:20:21 +0300</lastBuildDate>
+    
+	<atom:link href="http://jerq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://jerq.github.io/about/</link>
+      <pubDate>Wed, 27 Apr 2022 20:20:21 +0300</pubDate>
+      
+      <guid>http://jerq.github.io/about/</guid>
+      <description>About the author.
+jajajajjajaja</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://jerq.github.io/posts/</link>
+      <pubDate>Wed, 27 Apr 2022 20:16:53 +0300</pubDate>
+      
+      <guid>http://jerq.github.io/posts/</guid>
+      <description>Index of POSTS
+Blog site
+First post</description>
+    </item>
+    
+  </channel>
+</rss>
